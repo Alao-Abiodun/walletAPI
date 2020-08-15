@@ -1,0 +1,28 @@
+{
+  "name": "walletapi",
+  "version": "1.0.0",
+  "description": "Building a WalletAPI that serve as a frontend Wallet App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/app.js --exec babel-node",
+    "start": "node ./src/app.js"
+  },
+  "author": "alaoabiodun",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.10.4",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.3.0"
+  }
+}
