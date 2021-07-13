@@ -25,8 +25,8 @@ Firstly, you will be send an invitation to join the team repository, and you wil
 
 # Links
 
-[download the git tool](git.com)
+[Download Git](git.com)
 
-[Create a github account](https://github.com/)
+[Register A Github Account](https://github.com/)
 
 ![Node pixels](../images/node.png)
