@@ -2,7 +2,7 @@
 
 
 In this tutorial we will be learning how to use git and github, and I will be take you through some
-process that will guide you well in know how to using the tools very well.
+techniques that will guide you well in know how to using these tools effectively.
 
 ## Prerequisite
 - install git 
@@ -24,7 +24,9 @@ Firstly, you will be send an invitation to join the team repository, and you wil
 
 
 # Links
+
 [download the git tool](git.com)
+
 [Create a github account](https://github.com/)
 
 ![Node pixels](../images/node.png)
