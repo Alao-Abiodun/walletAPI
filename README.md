@@ -93,7 +93,7 @@ Above, is the main team repository, while the second url is your own fork reposi
 
 - git pull upstream main
 
-- git push origin HEAD, HEAD means current working branch.
+- git push origin HEAD.
 
 - CREATE PR.
 
@@ -103,7 +103,6 @@ To fetch updates.
 
 - Use git pull upstream HEAD 
 
-NOTE: HEAD means current working branch-name
 
 ## One line Code
 
@@ -116,6 +115,8 @@ NOTE: HEAD means current working branch-name
 - View single pull requests
 
 - Observe, merge or close
+
+NOTE: `HEAD` means current working branch-name
 
 # Links
 
