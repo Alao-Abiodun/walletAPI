@@ -77,7 +77,7 @@ Above, is the main team repository, while the second url is your own fork reposi
 
 - Add the files to git using git add .
 
-- Commit your files using git commit –m “descriptive-message”
+- Commit your files using `git commit –m “descriptive-message”`
 
 - Push your files to your origin using `git push origin main`
 
