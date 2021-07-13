@@ -47,6 +47,24 @@ Firstly, you will be send an invitation to join the team repository, and you wil
 
 Above, is the main team repository, while the second url is your own fork repository which is a copy of the team repository.
 
+- Open cmd line
+
+- copy your own url forked repository and clone it your local system using command `git clone https://github.com/tuck183/kidvacc-fe-pjt-21`
+
+- Locate the name of the project which is `kidvacc-fe-pjt-21`
+
+- Initialize git using `git init`
+
+- Set origin and upstream
+
+- Upstream refers to the zuri repo(main repository)
+
+- Origin refers to the forked repo(Copy of main repository)
+
+- Add origin: `git remote add origin https://github.com/tuck183/kidvacc-fe-pjt-21.git`
+
+- To add upstream: `git remote add upstream https://github.com/zuri-training /kidvacc-fe-pjt-21.git`
+
 
 # Links
 
