@@ -39,7 +39,7 @@ Firstly, you will be send an invitation to join the team repository, and you wil
 
 # Links
 
-[Download Git](git.https://git-scm.com/)
+[Download Git](https://git-scm.com/)
 
 [Register A Github Account](https://github.com/)
 
