@@ -123,4 +123,3 @@ NOTE: HEAD means current working branch-name
 
 [Register A Github Account](https://github.com/)
 
-![Node pixels](./images/node.png)
