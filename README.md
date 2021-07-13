@@ -65,7 +65,7 @@ Above, is the main team repository, while the second url is your own fork reposi
 
 - To add upstream: `git remote add upstream https://github.com/zuri-training /kidvacc-fe-pjt-21.git`
 
-[process1](./images/folder1.PNG)
+![process1](./images/folder1.PNG)
 
 - To check if added use `git remote –v`
 
@@ -83,7 +83,7 @@ Above, is the main team repository, while the second url is your own fork reposi
 
 - After pushing create pull request from your github page
 
-[process2](./images/folder2.PNG)
+![process2](./images/folder2.PNG)
 
 # Links
 
