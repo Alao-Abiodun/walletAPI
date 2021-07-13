@@ -37,6 +37,15 @@ Firstly, you will be send an invitation to join the team repository, and you wil
 
 ## STEP 2: Some Automations Techniques involve contributing to the team repository using git and github.
 
+- Accept the gitub invite.
+
+- Click on the Fork button to fork the repository.
+
+- Notice the url change from `https://github.com/zuri-training /kidvacc-fe-pjt-21` to `https://github.com/tuck183/kidvacc-fe-pjt-21`
+
+![url-change](./images/fork.PNG)
+
+Above, is the main team repository, while the second url is your own fork repository which is a copy of the team repository.
 
 
 # Links
