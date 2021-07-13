@@ -85,6 +85,38 @@ Above, is the main team repository, while the second url is your own fork reposi
 
 ![process2](./images/folder2.PNG)
 
+## STEP 3: Maintaining update with the Upstream
+
+- git add .
+
+- git commit -m 'descriptive-message'
+
+- git pull upstream main
+
+- git push origin HEAD, HEAD means current working branch.
+
+- CREATE PR.
+
+## STEP 4: Fetching upstream
+
+To fetch updates.
+
+- Use git pull upstream HEAD 
+
+NOTE: HEAD means current working branch-name
+
+## One line Code
+
+- git add . && git commit –m “message” && git pull upstream main && git push origin main
+
+## Maintainers/Triage - Reviewing PR
+
+- Open pull requests on the zuri repo
+
+- View single pull requests
+
+- Observe, merge or close
+
 # Links
 
 [Download Git](https://git-scm.com/)
