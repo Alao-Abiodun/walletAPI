@@ -31,7 +31,9 @@ Firstly, There are many ways to contribute to team repositories, and some reposi
 
 ## STEP 1: Getting Started to Collaborate on the team github repository.
 
-Firstly, you will be send an invitation to join the team repository, and you will see a notification in your email account. Click on the "Join" button and you will direct to the team repository. which means you now have access to the team repository and you can fork and clone the team repository. 
+Firstly, you will be send an invitation to join the team repository, and you will see a notification in your email account. Click on the "Join" button and you will direct to the team repository. which means you now have access to the team repository and you can fork and clone the team repository. Here is screen of a github invite to the team repository. 
+
+![Github Invite](./github_invitation.PNG)
 
 ## STEP 2: Some Automations Techniques involve contributing to the team repository using git and github.
 
